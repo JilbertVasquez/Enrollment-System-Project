@@ -1,0 +1,8 @@
+//create database portal;
+//used database portal;
+//create table dashboard 
+
+//install pymysql		pip install pymysql
+//install pillow		pip install pillow
+
+oks na lahat
